@@ -6,10 +6,24 @@ streamlit을 이용한 웹 페이지 만들기
 ## 📜 Pipeline         
 Scripts
 ```
-Streamlit-View     
+Streamlit-View1      
 ├── app.py           
-└──            
+└──       
+Streamlit-View2       
+├── uber.py     
+├── mpg.py           
+└──        
+Streamlit-View3        
+├── traffic_accident_main.py
+├── traffic_accident_result.py
+└──  
 ```
 
-### 📊 app.py                   
-<img src="https://user-images.githubusercontent.com/72390138/195485099-0f4462fb-8c50-443f-8052-053ca25a2748.png"  width="600" height="750"/>
+### 🔴 app.py                    
+site : [https://meji9086-sreamlit-view-app-riavbr.streamlitapp.com/](https://meji9086-sreamlit-view-app-riavbr.streamlitapp.com/)            
+
+### 🟠 uber.py           
+site : [https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/](https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/)
+
+### 🟡 traffic_accident_main.py          
+site : [https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/](https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/)    
