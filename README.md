@@ -26,5 +26,5 @@ site : [https://meji9086-sreamlit-view-app-riavbr.streamlitapp.com/](https://mej
 site : [https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/](https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/)
 
 ### 🟡 traffic_accident_main.py   
-main page와 result page 작성
+main page와 result page 작성          
 site : [https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/](https://meji9086-traffic-accident-data-analysis-1-j6stsu.streamlitapp.com/)    
